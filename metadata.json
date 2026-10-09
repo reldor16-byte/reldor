@@ -1,0 +1,8 @@
+{
+  "name": "Interruption Cause Dashboard",
+  "description": "Electric power interruption cause analytics, incident record management, real-time outage tracking, and Excel workbook reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

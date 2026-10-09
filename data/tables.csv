@@ -1,0 +1,60 @@
+Table,Code,Description,Category
+Classification,L,Lateral,Type of Interruption
+Classification,B,Block,Type of Interruption
+Classification,F,Feeder,Type of Interruption
+Classification,BB,Backbone,Type of Interruption
+Classification,SS,Substation,Type of Interruption
+Classification,Supply,Supply (Grid / Transmission),Type of Interruption
+Cause,001,Human Error / Contractor / Vehicle / Snapped Line,Interruption Cause
+Cause,002,Lightning Strike / Atmospheric Flashover,Interruption Cause
+Cause,004,Scheduled Power Interruption / Planned Maintenance,Interruption Cause
+Cause,005,Trees / Vegetation Contact / Falling Branches,Interruption Cause
+Cause,008,Grid / Transmission Unscheduled Interruption (NGCP),Interruption Cause
+Cause,009,Equipment / Hardware Defect / Jumper Failure,Interruption Cause
+Cause,010,Animal / Wildlife Intrusion (Bat / Bird / Rat),Interruption Cause
+Cause,011,Undetermined Fault / Unidentified Line Fault,Interruption Cause
+Weather,101,Inclement Weather / Heavy Rain / Wind,Weather Condition
+Weather,102,Thunderstorm / Lightning Activity,Weather Condition
+Weather,103,Overcast / Cloudy / Rain Showers,Weather Condition
+Weather,104,Fair / Normal Weather / Clear,Weather Condition
+Isolation Device,201,Circuit Breaker (CB) / Substation Recloser,Isolation Device
+Isolation Device,202,Air Break Switch / Gang Disconnect / Sectionalizer,Isolation Device
+Isolation Device,203,Fuse Cutout (FCO) / Lateral Cutout,Isolation Device
+Isolation Device,204,Cutout Bypass / In-line Disconnect,Isolation Device
+Equipment Failed,301,Fuse Link / Lateral Cutout Fuse Link,Equipment
+Equipment Failed,302,Secondary Line / Secondary Jumper / Service Drop,Equipment
+Equipment Failed,303,Distribution Transformer (DT) / Bushing / Arrester,Equipment
+Equipment Failed,304,Circuit Breaker / Substation Breaker / PRD Relay,Equipment
+Equipment Failed,307,Crossarm / Pole Top Pin / Hardware,Equipment
+Equipment Failed,308,Broken Cross Arm,Equipment
+Equipment Failed,309,Leaned Pole / Structure,Equipment
+Equipment Failed,310,Insulator (Pin Type / Suspension Insulator),Equipment
+Equipment Failed,311,Primary Jumper / Cutout Jumper Wire,Equipment
+Equipment Failed,312,Primary Line / Conductor / CT / Bushing,Equipment
+Substation,QZN,Quezon Substation (Quezon, Licab, Sto. Domingo),Substation
+Substation,TAL,Talavera Substation (Talavera, Sto. Domingo),Substation
+Substation,GBA,Guimba Substation (Guimba, Talugtug),Substation
+Substation,LPO,Lupao Substation (Lupao, Muñoz, Talugtug),Substation
+Substation,MNZ,Muñoz Substation (Science City of Muñoz),Substation
+Substation,ALG,Aliaga Substation (Aliaga, Licab),Substation
+Substation,CAR,Carranglan Substation (Carranglan),Substation
+Feeder,F11,Talavera Feeder 11,Feeder
+Feeder,F12,Talavera Feeder 12,Feeder
+Feeder,F13,Talavera Feeder 13,Feeder
+Feeder,F14,Talavera Feeder 14,Feeder
+Feeder,F21,Muñoz Feeder 21,Feeder
+Feeder,F22,Muñoz Feeder 22,Feeder
+Feeder,F23,Muñoz Feeder 23,Feeder
+Feeder,F24,Muñoz Feeder 24,Feeder
+Feeder,F25,Muñoz Feeder 25,Feeder
+Feeder,F31,Quezon Feeder 31,Feeder
+Feeder,F32,Quezon Feeder 32,Feeder
+Feeder,F33,Quezon Feeder 33,Feeder
+Feeder,F41,Guimba Feeder 41,Feeder
+Feeder,F42,Guimba Feeder 42,Feeder
+Feeder,F43,Guimba Feeder 43,Feeder
+Feeder,F51,Carranglan Feeder 51,Feeder
+Feeder,F61,Aliaga Feeder 61,Feeder
+Feeder,F62,Aliaga Feeder 62,Feeder
+Feeder,F71,Lupao Feeder 71,Feeder
+Feeder,F72,Lupao Feeder 72,Feeder

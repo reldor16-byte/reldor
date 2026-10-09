@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usr_admin",
+    "username": "admin",
+    "password": "admin123",
+    "name": "Grid Operations Admin",
+    "role": "admin",
+    "email": "n2a1.sitrep@gmail.com",
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr_operator",
+    "username": "operator",
+    "password": "operator123",
+    "name": "Substation Operator",
+    "role": "viewer",
+    "email": "operator.zone1@neeco2area1.com",
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr_engineer",
+    "username": "engineer",
+    "password": "engineer123",
+    "name": "Zone Engineer (Admin)",
+    "role": "admin",
+    "email": "zone.engineer@neeco2area1.com",
+    "createdAt": "2026-09-01T00:00:00.000Z"
+  }
+]
